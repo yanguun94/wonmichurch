@@ -1,0 +1,13 @@
+# Site settings
+title: 원미교회
+email: kavka65535@gmail.com
+description: Wonmi Methodist Church Web Page
+baseurl: ""
+url: ""
+
+phone: 032-614-1069
+address: 14567 부천시 원미구 조마루로 400(3층)
+facebook: 테스트-688823351552750
+
+# Build settings
+markdown: kramdown
